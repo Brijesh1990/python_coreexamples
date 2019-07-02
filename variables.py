@@ -10,8 +10,4 @@ name="sameer"
 
 name_a='Brijesh'
 
-
-
-
-
 print(name)
